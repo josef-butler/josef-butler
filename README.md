@@ -1,11 +1,11 @@
-# 👋 Hi there, I'm Joe!
+## 👋 Hi there, I'm Joe!
 
-## 🔭 I’m currently working on...
+### 🔭 I’m currently working on...
 
 - [Pantree](https://github.com/kotare-2020/Pantree "Pantree")
 - [Allocredit](https://github.com/joe-butler-dev/allocredit "Allocredit")
 
-## 🌱 I’m currently learning...
+### 🌱 I’m currently learning...
 
 - C#
 

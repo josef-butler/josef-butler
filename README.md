@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Joe!
+# 👋 Hi there, I'm Joe!
 
 ## 🔭 I’m currently working on...
 

@@ -22,8 +22,8 @@ I'm a full stack developer, currently working at [Xero](https://www.xero.com/). 
     <i>Reach out for a chat!</i>
   </p>
   <p align="center">
-    <a href="https://www.linkedin.com/in/josef-butler/" alt="LinkedIn"><img src="/readme/linkedin.png"></a>
-    <a href="https://github.com/joe-butler-dev" alt="GitHub"><img src="/readme/github.png"></a>
+    <a href="https://www.linkedin.com/in/josef-butler/" alt="LinkedIn"><img src="https://github.com/joe-butler-dev/joe-butler-dev/blob/master/readme/linkedin.png"></a>
+    <a href="https://github.com/joe-butler-dev" alt="GitHub"><img src="https://github.com/joe-butler-dev/joe-butler-dev/blob/master/readme/github.png"></a>
   </p>
 
 <!--

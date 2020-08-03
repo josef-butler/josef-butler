@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working on...
 
-- [Pantree](https://github.com/kotare-2020/Pantree "Pantree") - a simple meal planner with a focus on sustainability. This was my final group project at Dev Academy, and my team have decided to continue working on it for practice (and because it's an awesome app!)
+- [Pantree](https://github.com/kotare-2020/Pantree "Pantree") - a simple meal planner with a focus on sustainability. This was my final group project at Dev Academy, and my awesome team have decided to continue working on it for practice (and because it's an amazing app!)
 - [Allocredit](https://github.com/joe-butler-dev/allocredit "Allocredit") - an app that allows Xero users to allocate credit notes to their AR invoices in bulk. I'm building this to get familiar with both C# and interacting with Xero's API.
 
 ### 🌱 I’m currently learning...

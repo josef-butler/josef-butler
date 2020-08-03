@@ -12,7 +12,7 @@ I'm a full stack developer, currently working at [Xero](https://www.xero.com/). 
   <summary>🔭 What I'm currently working on</summary>
   <br>
   
-  - [Pantree](https://github.com/kotare-2020/Pantree "Pantree") - a simple meal planner with a focus on sustainability, and connecting users to locally sourced ingredients
+  - [Pantree](https://github.com/kotare-2020/Pantree "Pantree") - a simple meal planner with focuses on sustainability and connecting users to locally sourced ingredients
 - [Allocredit](https://github.com/joe-butler-dev/allocredit "Allocredit") - an app that allows Xero users to allocate credit notes to their AR invoices in bulk
 
 </details>

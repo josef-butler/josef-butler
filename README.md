@@ -12,8 +12,8 @@ I'm a full stack developer, currently working at [Xero](https://www.xero.com/). 
   <summary>🔭 What I'm currently working on</summary>
   <br>
   
-  - [Pantree](https://github.com/kotare-2020/Pantree "Pantree") - a simple meal planner with a focus on sustainability. This was my final group project at Dev Academy, and my awesome team have decided to continue working on it for practice (and because it's an amazing app!)
-- [Allocredit](https://github.com/joe-butler-dev/allocredit "Allocredit") - an app that allows Xero users to allocate credit notes to their AR invoices in bulk. I'm building this to get familiar with both C# and interacting with Xero's API.
+  - [Pantree](https://github.com/kotare-2020/Pantree "Pantree") - a simple meal planner with a focus on sustainability, and connecting users to locally sourced ingredients
+- [Allocredit](https://github.com/joe-butler-dev/allocredit "Allocredit") - an app that allows Xero users to allocate credit notes to their AR invoices in bulk
 
 </details>
 

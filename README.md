@@ -22,9 +22,11 @@ I'm a full stack developer, currently working at [Xero][xero]. I like learning n
 </details>
 -->
 
-### 🌏 Connect with me!
+---
 
-<p align="left">
+<h3 align="center">🌏 Connect with me! 🌏</h3>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/josef-butler/" alt="Joe Butler | LinkedIn"><img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"></a>
   <a href="https://github.com/josef-butler" alt="Joe Butler | GitHub"><img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg"></a>
 </p>

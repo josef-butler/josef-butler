@@ -1,33 +1,42 @@
-### 👋 Hi there, I'm Joe!
+## 👋 Hi there, I'm Joe!
 
-I'm a full stack developer, currently working at [Xero](https://www.xero.com/). I like learning new technologies and building awesome apps.
+I'm a full stack developer, currently working at [Xero][xero]. I like learning new technologies and building awesome apps.
 
-#### Get to know me
+### 👾 Get to know me
 
-- 💻 I'm currently a Product Owner at [Xero](https://www.xero.com/)
+- 💻 I'm currently a Product Owner at [Xero][xero]
 - ⚡ My top skills are JavaScript, React and Redux
 - 🌱 I love learning - I'm currently adding C# to my tech tool belt
 
-<details>
-  <summary>🔭 What I'm currently working on</summary>
-  <br>
-  
-  - [Pantree](https://github.com/kotare-2020/Pantree "Pantree") - a simple meal planner with focuses on sustainability and connecting users to locally sourced ingredients
-- [Allocredit](https://github.com/joe-butler-dev/allocredit "Allocredit") - an app that allows Xero users to allocate credit notes to their AR invoices in bulk
+### 🔭 What I'm currently working on
 
-</details>
-
-<hr>
-  <p align="center">
-    <i>Reach out for a chat!</i>
-  </p>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/josef-butler/" alt="LinkedIn"><img src="https://github.com/joe-butler-dev/joe-butler-dev/blob/master/readme/linkedin.png"></a>
-    <a href="https://github.com/joe-butler-dev" alt="GitHub"><img src="https://github.com/joe-butler-dev/joe-butler-dev/blob/master/readme/github.png"></a>
-  </p>
+- [Pantree][pantree] - a simple meal planner with focuses on sustainability and connecting users to locally sourced ingredients
+- [Allocredit][allocredit] - an app that allows Xero users to allocate credit notes to their AR invoices in bulk
 
 <!--
 <details>
   <summary>Check out some of my past projects</summary>
+  <br>
+
+  - etc.
 </details>
 -->
+
+<hr>
+
+### 🌏 Connect with me!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/josef-butler/" alt="Joe Butler | LinkedIn"><img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"></a>
+  <a href="https://github.com/josef-butler" alt="Joe Butler | GitHub"><img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg"></a>
+</p>
+
+<hr>
+
+<p align="center">
+  <img alt="josef-butler's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=josef-butler&show_icons=true&hide_border=true" />
+</p>
+
+[xero]: https://www.xero.com/
+[pantree]: https://github.com/kotare-2020/Pantree
+[allocredit]: https://github.com/josef-butler/allocredit

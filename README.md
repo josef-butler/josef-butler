@@ -18,6 +18,8 @@ I'm a full stack developer, currently working at [Xero][xero]. I like learning n
   <summary>Check out some of my past projects</summary>
   <br>
 
+  I recently graduated from [Enspiral Dev Academy][eda], a full immersion development boot camp. The projects below were completed during my time on the boot camp.
+  
   - [todo-full-stack][todo-full-stack]
   - [show-me-the-money][show-me-the-money]
   - [conways][conways]
@@ -47,6 +49,8 @@ I'm a full stack developer, currently working at [Xero][xero]. I like learning n
 </p>
 
 [xero]: https://www.xero.com/
+[eda]: https://devacademy.co.nz/
+
 [pantree]: https://github.com/kotare-2020/Pantree
 [catchup]: https://github.com/josef-butler/catchup
 [allocredit]: https://github.com/josef-butler/allocredit

@@ -11,7 +11,8 @@ I'm a full stack developer, currently working at [Xero][xero]. I like learning n
 ### 🔭 What I'm currently working on
 
 - [Pantree][pantree] - a simple meal planner with focuses on sustainability and connecting users to locally sourced ingredients
-- [Allocredit][allocredit] - an app that allows Xero users to allocate credit notes to their AR invoices in bulk
+- [Catchup][catchup] - an social app for organising and attending events. I'm using this to help build my skills in ASP.NET Core and C#
+<!-- - [Allocredit][allocredit] - an app that allows Xero users to allocate credit notes to their AR invoices in bulk -->
 
 <!--
 <details>
@@ -39,4 +40,5 @@ I'm a full stack developer, currently working at [Xero][xero]. I like learning n
 
 [xero]: https://www.xero.com/
 [pantree]: https://github.com/kotare-2020/Pantree
+[catchup]: https://github.com/josef-butler/catchup
 [allocredit]: https://github.com/josef-butler/allocredit

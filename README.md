@@ -6,7 +6,7 @@ I'm a full stack developer, currently working at [Xero][xero]. I like learning n
 
 - 💻 I'm currently a Product Owner at [Xero][xero]
 - ⚡ My top skills are JavaScript, React and Redux
-- 🌱 I love learning - I'm currently adding C# to my tech tool belt
+- 🌱 I love learning - I'm currently adding C# and TypeScript to my tech tool belt
 
 ### 🔭 What I'm currently working on
 

@@ -20,16 +20,16 @@ I'm a full stack developer, currently working at [Xero][xero]. I like learning n
 
   I recently graduated from [Enspiral Dev Academy][eda], a full immersion development boot camp. The projects below were completed during my time on the boot camp.
   
-  - [todo-full-stack][todo-full-stack]
-  - [show-me-the-money][show-me-the-money]
-  - [conways][conways]
-  - [life-of-the-party][life-of-the-party]
-  - [quiz-me-tender][quiz-me-tender]
-  - [grateful-8][grateful-8]
-  - [mind-eater][mind-eater]
-  - [tdd-bowling][tdd-bowling]
-  - [sonic-minesweeper][sonic-minesweeper]
-  - [calculator][calculator]
+  - [todo-full-stack][todo-full-stack] - A simple to-do list app
+  - [show-me-the-money][show-me-the-money] - Records and tracks the cost of meetings based on hourly rates of the attendees
+  - [conways][conways] - Console app that simulates Conway's Game of Life
+  - [life-of-the-party][life-of-the-party] - Web-based version of the American card game, Black or Red
+  - [quiz-me-tender][quiz-me-tender] - Pub quiz app!
+  - [grateful-8][grateful-8] - The magic 8 ball redefined
+  - [mind-eater][mind-eater] - A very basic game that 'guesses' what your favourite food is
+  - [tdd-bowling][tdd-bowling] - A bowling score calculator built using TDD
+  - [sonic-minesweeper][sonic-minesweeper] - Minesweeper to the theme of Sonic the Hedgehog
+  - [calculator][calculator] - A basic calculator inspired by retro Casio calculator watches
 
 </details>
 

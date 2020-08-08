@@ -17,22 +17,34 @@ I'm a full stack developer, currently working at [Xero][xero]. I like learning n
 <details>
   <summary>Check out some of my past projects</summary>
   <br>
+  I recently graduated from [Enspiral Dev Academy][eda], a full immersion development boot camp. The projects below were completed while I was on the boot camp and are a mix of individual and group projects. They're listed in chronological order of when they were built, with the most recent being at the top.
 
-  I recently graduated from [Enspiral Dev Academy][eda], a full immersion development boot camp. The projects below were completed during my time on the boot camp.
-  
-  - [todo-full-stack][todo-full-stack] - A simple to-do list app
   - [show-me-the-money][show-me-the-money] - Records and tracks the cost of meetings based on hourly rates of the attendees
-  - [conways][conways] - Console app that simulates Conway's Game of Life
-  - [life-of-the-party][life-of-the-party] - Web-based version of the American card game, Black or Red
+  - [todo-full-stack][todo-full-stack] - A simple to-do list app
   - [quiz-me-tender][quiz-me-tender] - Pub quiz app!
+  - [life-of-the-party][life-of-the-party] - Web-based version of the American card game, Black or Red
   - [grateful-8][grateful-8] - The magic 8 ball redefined
   - [mind-eater][mind-eater] - A very basic game that 'guesses' what your favourite food is
+  - [conways][conways] - Console app that simulates Conway's Game of Life
   - [tdd-bowling][tdd-bowling] - A bowling score calculator built using TDD
   - [sonic-minesweeper][sonic-minesweeper] - Minesweeper to the theme of Sonic the Hedgehog
   - [calculator][calculator] - A basic calculator inspired by retro Casio calculator watches
-
 </details>
 
+<details>
+  <summary>Current skills</summary>
+
+  - HTML
+  - CSS - both custom and frameworks like Materialize, Bulma and Skeleton
+  - JavaScript
+  - React and Redux
+  - Handlebars
+  - Express
+  - Knex with SQLite and PostgreSQL
+  - Node
+  - Creating and consuming RESTful APIs
+
+</details>
 ---
 
 <h3 align="center">🌏 Connect with me! 🌏</h3>

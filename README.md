@@ -45,6 +45,7 @@ I'm a full stack developer, currently working at [Xero][xero]. I like learning n
   - Creating and consuming RESTful APIs
 
 </details>
+
 ---
 
 <h3 align="center">🌏 Connect with me! 🌏</h3>

@@ -33,7 +33,8 @@ I'm a full stack developer, currently working at [Xero][xero]. I like learning n
 
 <details>
   <summary>Current skills</summary>
-
+  <br>
+  
   - HTML
   - CSS - both custom and frameworks like Materialize, Bulma and Skeleton
   - JavaScript

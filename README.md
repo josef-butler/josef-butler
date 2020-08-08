@@ -17,6 +17,7 @@ I'm a full stack developer, currently working at [Xero][xero]. I like learning n
 <details>
   <summary>Check out some of my past projects</summary>
   <br>
+  
   I recently graduated from [Enspiral Dev Academy][eda], a full immersion development boot camp. The projects below were completed while I was on the boot camp and are a mix of individual and group projects. They're listed in chronological order of when they were built, with the most recent being at the top.
 
   - [show-me-the-money][show-me-the-money] - Records and tracks the cost of meetings based on hourly rates of the attendees
@@ -34,7 +35,7 @@ I'm a full stack developer, currently working at [Xero][xero]. I like learning n
 <details>
   <summary>Current skills</summary>
   <br>
-  
+
   - HTML
   - CSS - both custom and frameworks like Materialize, Bulma and Skeleton
   - JavaScript

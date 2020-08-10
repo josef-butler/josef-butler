@@ -68,7 +68,7 @@ I'm a full stack developer, currently working at [Xero][xero]. I like learning n
 [show-me-the-money]: https://github.com/josef-butler/show-me-the-money
 [conways]: https://github.com/josef-butler/conways
 [life-of-the-party]: https://github.com/kotare-2020/life-of-the-party
-[quiz-me-tender]: https://github.com/josef-butler/quiz-me-tender
+[quiz-me-tender]: https://github.com/kotare-2020/quiz-me-tender
 [grateful-8]: https://github.com/kotare-2020/grateful-8
 [mind-eater]: https://github.com/kotare-2020/mind-eater
 [tdd-bowling]: https://github.com/josef-butler/tdd-bowling

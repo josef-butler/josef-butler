@@ -43,8 +43,8 @@ I'm a full stack developer, currently working at [Xero][xero]. I like learning n
   - Handlebars
   - Express
   - Knex with SQLite and PostgreSQL
-  - Node
-  - Creating and consuming RESTful APIs
+  - Node.js
+  - RESTful APIs
 
 </details>
 

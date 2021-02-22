@@ -1,25 +1,18 @@
 ## 👋 Hi there, I'm Joe!
 
-I'm a full stack developer, currently working at [Xero][xero]. I like learning new technologies and building awesome apps.
-
-### 👾 Get to know me
-
-- 💻 I'm currently a Product Owner at [Xero][xero]
-- ⚡ My top skills are JavaScript, React and Redux
-- 🌱 I love learning - I'm currently adding C# and TypeScript to my tech tool belt
+I'm a developer currently working at [Xero][xero]. I like learning new technologies and building awesome apps.
 
 ### 🔭 What I'm currently working on
 
-- [Pantree][pantree] - a simple meal planner with focuses on sustainability and connecting users to locally sourced ingredients
-- [CatchUp][catchup] - an app for organising, finding and attending social events. I'm using this to help build my skills in ASP.NET Core, C# and TypeScript
+  - [Commander][commander] - A simple API to store and retrieve CLI commands. I'm building this to become more familiar with .NET Core and C#
+<!-- - [CatchUp][catchup] - an app for organising, finding and attending social events. I'm using this to help build my skills in ASP.NET Core, C# and TypeScript -->
 <!-- - [Allocredit][allocredit] - an app that allows Xero users to allocate credit notes to their AR invoices in bulk -->
 
 <details>
   <summary>Check out some of my past projects</summary>
   <br>
-  
-  I recently graduated from [Enspiral Dev Academy][eda], a full immersion development boot camp. The projects below were completed while I was on the boot camp and are a mix of individual and group projects. They're listed in chronological order of when they were built, with the most recent being at the top.
 
+  - [Pantree][pantree] - a simple meal planner with focuses on sustainability and connecting users to locally sourced ingredients
   - [show-me-the-money][show-me-the-money] - Records and tracks the cost of meetings based on hourly rates of the attendees
   - [todo-full-stack][todo-full-stack] - A simple to-do list app
   - [quiz-me-tender][quiz-me-tender] - Pub quiz app!
@@ -60,6 +53,7 @@ I'm a full stack developer, currently working at [Xero][xero]. I like learning n
 [xero]: https://www.xero.com/
 [eda]: https://devacademy.co.nz/
 
+[commander]: https://github.com/josef-butler/commander
 [pantree]: https://github.com/kotare-2020/Pantree
 [catchup]: https://github.com/josef-butler/catchup
 [allocredit]: https://github.com/josef-butler/allocredit

@@ -25,31 +25,6 @@ I'm a developer currently working at [Xero][xero]. I like learning new technolog
   - [calculator][calculator] - A basic calculator inspired by retro Casio calculator watches
 </details>
 
-<details>
-  <summary>Current skills</summary>
-  <br>
-
-  - HTML
-  - CSS - both custom and frameworks like Materialize, Bulma and Skeleton
-  - JavaScript
-  - React and Redux
-  - Handlebars
-  - Express
-  - Knex with SQLite and PostgreSQL
-  - Node.js
-  - RESTful APIs
-
-</details>
-
----
-
-<h3 align="center">🌏 Connect with me! 🌏</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/josef-butler/" alt="Joe Butler | LinkedIn"><img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"></a>
-  <a href="https://github.com/josef-butler" alt="Joe Butler | GitHub"><img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg"></a>
-</p>
-
 [xero]: https://www.xero.com/
 [eda]: https://devacademy.co.nz/
 

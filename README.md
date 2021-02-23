@@ -1,15 +1,15 @@
-## 👋 Hi there, I'm Joe!
+### 👋 Hi there, I'm Joe!
 
-I'm a developer currently working at [Xero][xero]. I like learning new technologies and building awesome apps.
+I'm a developer currently working at [Xero][xero]. I like learning new technologies and building awesome apps. At the moment I'm upskilling in .NET/C# and AWS.
 
-### 🔭 What I'm currently working on
+**🔭 What I'm currently working on:**
 
-  - [Commander][commander] - A simple API to store and retrieve CLI commands. I'm building this to become more familiar with .NET Core and C#
+  - [Commander][commander] - A simple .NET API to store and retrieve CLI commands
 <!-- - [CatchUp][catchup] - an app for organising, finding and attending social events. I'm using this to help build my skills in ASP.NET Core, C# and TypeScript -->
 <!-- - [Allocredit][allocredit] - an app that allows Xero users to allocate credit notes to their AR invoices in bulk -->
 
 <details>
-  <summary>Check out some of my past projects</summary>
+  <summary>Check out some of my past projects. These were all completed during my time at Enspiral Dev Academy in 2020.</summary>
   <br>
 
   - [Pantree][pantree] - a simple meal planner with focuses on sustainability and connecting users to locally sourced ingredients

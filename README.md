@@ -5,6 +5,7 @@ I'm a developer currently working at [Xero][xero]. I like learning new technolog
 **🔭 What I'm currently working on:**
 
   - [Commander][commander] - A simple .NET API to store and retrieve CLI commands
+  - [Jinxiobot][jinxiobot] - A Slack bot made using Node.js and Botkit
 <!-- - [CatchUp][catchup] - an app for organising, finding and attending social events. I'm using this to help build my skills in ASP.NET Core, C# and TypeScript -->
 <!-- - [Allocredit][allocredit] - an app that allows Xero users to allocate credit notes to their AR invoices in bulk -->
 
@@ -29,6 +30,8 @@ I'm a developer currently working at [Xero][xero]. I like learning new technolog
 [eda]: https://devacademy.co.nz/
 
 [commander]: https://github.com/josef-butler/commander
+[jinxiobot]: https://github.com/josef-butler/jinxiobot
+
 [pantree]: https://github.com/kotare-2020/Pantree
 [catchup]: https://github.com/josef-butler/catchup
 [allocredit]: https://github.com/josef-butler/allocredit
